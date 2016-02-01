@@ -1,0 +1,8 @@
+*.json
+
+/.bundle/
+/vendor/bundle
+Gemfile.lock
+
+.env
+/.tmp
